@@ -1,2 +1,2 @@
 # sample_django
-CS551Q exercise
+CS551Q exercise on using django
